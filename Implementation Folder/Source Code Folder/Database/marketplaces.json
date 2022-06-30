@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "62932b2c321867b2219a8f7c"
+  },
+  "name": "Weather",
+  "description": "Shows weather",
+  "endpoint": "N/A",
+  "userid": {
+    "$oid": "62931b21321867b2219a8f6a"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653812012997"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653812012997"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296e534b3c486aaf20cb0e8"
+  },
+  "name": "BMI",
+  "description": "GET",
+  "endpoint": "http://localhost:3000/forgot-password#/dashboard",
+  "userid": {
+    "$oid": "62931b21321867b2219a8f6a"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654056244283"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654056244283"
+    }
+  },
+  "__v": 0
+}]

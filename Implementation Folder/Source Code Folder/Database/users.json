@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "629312462bdc88306508fe5b"
+  },
+  "username": "abitmahato712",
+  "email": "abitmahato712@gmail.com",
+  "password": "$2a$10$GEcyValNi.vQDBSJIqhfGOi6g76RE9gCpz.rYegcSg2Pz80lHkifi",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653805638272"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653805638272"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62931b21321867b2219a8f6a"
+  },
+  "username": "abit",
+  "email": "abit@gmail.com",
+  "password": "$2a$10$ImYc7G8HrrKhrhl89e6PYe09qQOTVQyhLaPhIkzeS7sEGt8RPJCXS",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653807905856"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653807905856"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62932fc3321867b2219a8faa"
+  },
+  "username": "test",
+  "email": "test@gmail.com",
+  "password": "$2a$10$M6pRN7EwDSYQi6EDd5Uua.f8ZsKzpU.xuhPqJz5Savxx/RqEf9os.",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653813187707"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653813187707"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629644e8b3c486aaf20cb0ca"
+  },
+  "username": "abit",
+  "email": "abit",
+  "password": "$2a$10$qPP1G66Bpwn4j3qQpZerReGsmel9.CYiL6iGNtDS3VuIMVJlEAuda",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654015208333"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654015208333"
+    }
+  },
+  "__v": 0
+}]

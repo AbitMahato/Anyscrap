@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6293155c47ea5f7ac4cc1f30"
+  },
+  "name": "BBC News",
+  "description": "Fetches news from BBC news",
+  "endpoint": "http://localhost:5000/api/public/news/bbc?limit=number",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653806428923"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653806428923"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6293159d47ea5f7ac4cc1f36"
+  },
+  "name": "NYT",
+  "description": "Fetches NYT news",
+  "endpoint": "http://localhost:5000/api/public/news/nytimes?limit=number",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653806493731"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653806493731"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6294ecda34d78d453fe3ef00"
+  },
+  "name": "Onlinekhabar",
+  "description": "Shows News",
+  "endpoint": "http://localhost:5000/api/public/news/bbc?limit=number",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653927130978"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653927130978"
+    }
+  },
+  "__v": 0
+}]
